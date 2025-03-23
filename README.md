@@ -1,4 +1,4 @@
-# WorldDataScraper
+## Scrapping World Data
 
 WorldDataScraper is a Python-based web scraping project that extracts structured global data from Wikipedia. It utilizes BeautifulSoup and Pandas to scrape, clean, and analyze data, making it accessible for further research and visualization.
 
